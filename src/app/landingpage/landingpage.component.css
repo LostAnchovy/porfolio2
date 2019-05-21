@@ -11,16 +11,46 @@ h2{
 h1{
     font-size: 2.0em
 }
-#skills, #leadership{
+#skills, #leadership,#marketing{
     background-color:rgb(156, 188, 220);
     color: white;
+}
+.container-marketing{
+    margin-top: 100px;
+}
+#container-marketing2{
+    margin-bottom: 100px;
+    padding: 80px;
+}
+#container-marketing2 p{
+    color: white
 }
 
 .siliconvalley{
     color: rgb(156, 188, 220)
 }
+#wordpress-projects{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.wp-cards{
+    width: 100%;
+    height: 300px
+}
+.wp-cards img{
+    width: 100%;
+    height: 300px;
+
+}
+.wp-projects{
+    margin-top: 100px;
+}
+.wp-projects2{
+    margin-bottom: 100px;
+}
 .testimonials img{
     height: 200px;
-    width: 200px;
+    width: 250px;
     margin-bottom: 15px
 }
+
